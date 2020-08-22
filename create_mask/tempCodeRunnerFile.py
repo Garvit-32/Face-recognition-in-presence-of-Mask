@@ -1,0 +1,1 @@
+print(mask_path)
