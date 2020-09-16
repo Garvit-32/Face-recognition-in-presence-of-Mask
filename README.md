@@ -4,7 +4,7 @@ The task in this project is to match a face image without any occlusion with a f
 
 ## Demo 
 
-
+![image](https://github.com/Garvit-32/Face-recognition-in-presence-of-Mask/blob/master/readmeImages/01-1.jpg)
 
 ## Steps to run 
  1. Clone this repository
