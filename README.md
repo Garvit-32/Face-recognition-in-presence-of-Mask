@@ -5,9 +5,8 @@ The task in this project is to match a face image without any occlusion with a f
 ## Demo 
 
 <p>
-<p align="left"><img height="250" width="200" src="https://github.com/Garvit-32/Face-recognition-in-presence-of-Mask/blob/master/readmeImages/01-1.jpg" alt="01-1"/>
+<p align="left"><img height="250" width="200" src="https://github.com/Garvit-32/Face-recognition-in-presence-of-Mask/blob/master/readmeImages/01-1.jpg" alt="01-1"/><img align="center" src="https://github.com/Garvit-32/Face-recognition-in-presence-of-Mask/blob/master/readmeImages/arrow.png" alt="arrow"/>
 </p>
-<p align="center"><img src="https://github.com/Garvit-32/Face-recognition-in-presence-of-Mask/blob/master/readmeImages/arrow.png" alt="arrow"/></p>
 </p>
 
 
