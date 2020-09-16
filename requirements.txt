@@ -1,0 +1,12 @@
+torch
+torchvision
+tqdm
+numpy 
+Pillow
+face-recognition
+opencv-python
+scikit-image
+matplotlib
+scipy
+face-alignment
+fastai
