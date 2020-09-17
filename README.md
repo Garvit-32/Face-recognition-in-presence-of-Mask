@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
  3. Download and paste the pretrained weight of face detection model in ./face_detection/weights/
 using the [link](https://drive.google.com/file/d/1WeXlNYsM6dMP3xQQELI-4gxhwKUQxc3-/view)
- 4. Download the hand made dataset using the [link](https://drive.google.com/file/d/0B-KJCaaF7elleG1RbzVPZWV4Tlk/view)  ~ 110 MB
+ 4. Download the hand made dataset using the [link](https://drive.google.com/drive/folders/1bhyhYWd4tqTmqEeJKzQAMv8q_Batyh0Z?usp=sharing)  ~ 110 MB
  5. Extract and paste it in project root directory
  6. (optional) You can use your dataset also but it follow a specific structure of directory
 ```
